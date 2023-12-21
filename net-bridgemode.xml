@@ -1,0 +1,6 @@
+<network>
+  <name>bnet</name>
+  <forward mode='bridge'>
+    <interface dev="interface" />
+  </forward> 
+</network>
